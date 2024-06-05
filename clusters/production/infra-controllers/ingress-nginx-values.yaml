@@ -8,4 +8,4 @@ spec:
       version: ">=4.10.0"
   values:
     controller:
-      replicaCount: 1
+      replicaCount: 2
